@@ -1,0 +1,3 @@
+class Fighters < ApplicationRecord
+
+end 
